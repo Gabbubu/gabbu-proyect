@@ -1,3 +1,3 @@
 # comment pink
-nombre = "Gabriel"
+nombre = "Gabbu"
 print(nombre)
